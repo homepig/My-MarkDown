@@ -37,7 +37,7 @@
 
 ## 代码块
 - 行内代码  
-我们可以通过`new`关键字来创建一个对象，例：`Person p = new Person()`;
+我们可以通过`new`关键字来创建一个对象，例：`Person p = new Person();`
 - 块区代码
 ```java
 	public class Test {
