@@ -8,9 +8,13 @@
    - 链接仓库的其他文件 [demo1](demo1.md)
    - 链接本文档的其他部分 [代码块](#代码块)
    
+###引用式链接
+- [百度][baidu_url]
+- [GitHub][github_url]
+   
 ## 图片
 - 图片的MarkDown语法  
-    `#![alt](url "text")`
+    `![alt](url "text")`
 - 图片仓库外部链接  
 ![百度logo](https://www.baidu.com/img/baidu_jgylogo3.gif "百度")
 - 图片仓库内部链接  
@@ -32,3 +36,5 @@
 <!-- 下面是文档中用到的链接 -->
 [baidu_logo]:https://www.baidu.com/img/baidu_jgylogo3.gif
 [lufei_img]:../images/IMG_0031.JPG
+[baidu_url]:https://www.baidu.com/
+[github_url]:https://github.com/
