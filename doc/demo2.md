@@ -5,8 +5,11 @@
 - 外部链接
    [百度](http://www.baidu.com)
 - 内部链接
-   [demo1](demo1.md)
+   - 链接仓库的其他文件 [demo1](demo1.md)
+   - 链接本文档的其他部分 [代码块](#代码块)
 ## 图片
+
+![百度logo](https://www.baidu.com/img/baidu_jgylogo3.gif "百度")
 
 ## 引用
 
