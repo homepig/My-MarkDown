@@ -1,4 +1,4 @@
-# demo2
+# [My-MarkDown](../README.md) -> demo2
 
 ## 链接
 
@@ -7,9 +7,14 @@
 - 内部链接
    - 链接仓库的其他文件 [demo1](demo1.md)
    - 链接本文档的其他部分 [代码块](#代码块)
+   
 ## 图片
-
+- 图片的MarkDown语法  
+    `#![alt](url "text")`
+- 图片仓库外部链接  
 ![百度logo](https://www.baidu.com/img/baidu_jgylogo3.gif "百度")
+- 图片仓库内部链接  
+![路飞](../images/IMG_0031.JPG "路飞")
 
 ## 引用
 
