@@ -29,9 +29,23 @@
 
 ## 引用
 
+> 这是一个引文。
+
+----出自
+
+>>> 这是多级引文。
+
 ## 代码块
-
-
+- 行内代码  
+我们可以通过`new`关键字来创建一个对象，例：`Person p = new Person()`;
+- 块区代码
+```java
+	public class Test {
+		public static void main(String[] args){
+			System.out.println("Hello,World!");
+		}
+	}
+```
 
 <!-- 下面是文档中用到的链接 -->
 [baidu_logo]:https://www.baidu.com/img/baidu_jgylogo3.gif
