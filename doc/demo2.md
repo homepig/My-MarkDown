@@ -16,6 +16,19 @@
 - 图片仓库内部链接  
 ![路飞](../images/IMG_0031.JPG "路飞")
 
+**图片的引用式链接：**
+- 外部图片  
+	![百度][baidu_logo]
+- 仓库内的图片  
+	![路飞][lufei_img]
+
+
 ## 引用
 
 ## 代码块
+
+
+
+<!-- 下面是文档中用到的链接 -->
+[baidu_logo]:https://www.baidu.com/img/baidu_jgylogo3.gif
+[lufei_img]:../images/IMG_0031.JPG
